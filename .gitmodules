@@ -1,3 +1,0 @@
-[submodule "security_users"]
-	path = security_users
-	url = git@github.com:viernes/security_users.git
