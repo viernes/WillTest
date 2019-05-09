@@ -4,3 +4,6 @@
 [submodule "rh_tvp"]
 	path = rh_tvp
 	url = git@github.com:William954/rh_tvp.git
+[submodule "partner_attendances"]
+	path = partner_attendances
+	url = git@github.com:William954/partner_attendances.git
