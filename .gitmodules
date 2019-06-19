@@ -7,3 +7,6 @@
 [submodule "partner_attendances"]
 	path = partner_attendances
 	url = git@github.com:William954/partner_attendances.git
+[submodule "pos_retail"]
+	path = pos_retail
+	url = git@github.com:viernes/pos_retail.git
