@@ -10,3 +10,6 @@
 [submodule "pos_retail"]
 	path = pos_retail
 	url = git@github.com:viernes/pos_retail.git
+[submodule "xmarts_auto_series"]
+	path = xmarts_auto_series
+	url = git@gitlab.com:xmarts/xmarts-apps/xmarts_auto_series.git
