@@ -13,3 +13,8 @@
 [submodule "xmarts_auto_series"]
 	path = xmarts_auto_series
 	url = git@gitlab.com:xmarts/xmarts-apps/xmarts_auto_series.git
+
+[submodule "multipay"]
+	path = multipay
+	url = git@github.com:William954/multipay.git
+	branch = master
